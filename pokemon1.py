@@ -36,4 +36,5 @@ for p in pokemons:
 
 with open(output_file, 'w') as f:               # Save results in json file
     json.dump(pokedata, f, indent=4)            # Writes the file in json format
+
 print(f"Data saved to {output_file}")
