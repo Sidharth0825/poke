@@ -1,0 +1,476 @@
+{
+    "amoonguss": {
+        "id": 591,
+        "name": "amoonguss",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "gyarados": {
+        "id": 130,
+        "name": "gyarados",
+        "types": [
+            "water",
+            "flying"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "snorlax": {
+        "id": 143,
+        "name": "snorlax",
+        "types": [
+            "normal"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "volcarona": {
+        "id": 637,
+        "name": "volcarona",
+        "types": [
+            "bug",
+            "fire"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "wooper": {
+        "id": 194,
+        "name": "wooper",
+        "types": [
+            "water",
+            "ground"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "greninja": {
+        "id": 658,
+        "name": "greninja",
+        "types": [
+            "water",
+            "dark"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "phanpy": {
+        "id": 231,
+        "name": "phanpy",
+        "types": [
+            "ground"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "charizard": {
+        "id": 6,
+        "name": "charizard",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "sceptile": {
+        "id": 254,
+        "name": "sceptile",
+        "types": [
+            "grass"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "aegislash-shield": {
+        "id": 681,
+        "name": "aegislash-shield",
+        "types": [
+            "steel",
+            "ghost"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "blaziken": {
+        "id": 257,
+        "name": "blaziken",
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "mudkip": {
+        "id": 258,
+        "name": "mudkip",
+        "types": [
+            "water"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "rowlet": {
+        "id": 722,
+        "name": "rowlet",
+        "types": [
+            "grass",
+            "flying"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "shedinja": {
+        "id": 292,
+        "name": "shedinja",
+        "types": [
+            "bug",
+            "ghost"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "wynaut": {
+        "id": 360,
+        "name": "wynaut",
+        "types": [
+            "psychic"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "incineroar": {
+        "id": 727,
+        "name": "incineroar",
+        "types": [
+            "fire",
+            "dark"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "spheal": {
+        "id": 363,
+        "name": "spheal",
+        "types": [
+            "ice",
+            "water"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "buzzwole": {
+        "id": 794,
+        "name": "buzzwole",
+        "types": [
+            "bug",
+            "fighting"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "salamence": {
+        "id": 373,
+        "name": "salamence",
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "mimikyu-disguised": {
+        "id": 778,
+        "name": "mimikyu-disguised",
+        "types": [
+            "ghost",
+            "fairy"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "metagross": {
+        "id": 376,
+        "name": "metagross",
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "rayquaza": {
+        "id": 384,
+        "name": "rayquaza",
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "is_legendary": true,
+        "is_mythical": false
+    },
+    "falinks": {
+        "id": 870,
+        "name": "falinks",
+        "types": [
+            "fighting"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "infernape": {
+        "id": 392,
+        "name": "infernape",
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "piplup": {
+        "id": 393,
+        "name": "piplup",
+        "types": [
+            "water"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "dragapult": {
+        "id": 887,
+        "name": "dragapult",
+        "types": [
+            "dragon",
+            "ghost"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "darkrai": {
+        "id": 491,
+        "name": "darkrai",
+        "types": [
+            "dark"
+        ],
+        "is_legendary": false,
+        "is_mythical": true
+    },
+    "gholdengo": {
+        "id": 1000,
+        "name": "gholdengo",
+        "types": [
+            "steel",
+            "ghost"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "oshawott": {
+        "id": 501,
+        "name": "oshawott",
+        "types": [
+            "water"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "walking-wake": {
+        "id": 1009,
+        "name": "walking-wake",
+        "types": [
+            "water",
+            "dragon"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "milotic": {
+        "id": 350,
+        "name": "milotic",
+        "types": [
+            "water"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "bulbasaur": {
+        "id": 1,
+        "name": "bulbasaur",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "gengar": {
+        "id": 94,
+        "name": "gengar",
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "umbreon": {
+        "id": 197,
+        "name": "umbreon",
+        "types": [
+            "dark"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "garchomp": {
+        "id": 445,
+        "name": "garchomp",
+        "types": [
+            "dragon",
+            "ground"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "chandelure": {
+        "id": 609,
+        "name": "chandelure",
+        "types": [
+            "ghost",
+            "fire"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "lucario": {
+        "id": 448,
+        "name": "lucario",
+        "types": [
+            "fighting",
+            "steel"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "flygon": {
+        "id": 330,
+        "name": "flygon",
+        "types": [
+            "ground",
+            "dragon"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "scizor": {
+        "id": 212,
+        "name": "scizor",
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "squirtle": {
+        "id": 7,
+        "name": "squirtle",
+        "types": [
+            "water"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "dragonite": {
+        "id": 149,
+        "name": "dragonite",
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "luxray": {
+        "id": 405,
+        "name": "luxray",
+        "types": [
+            "electric"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "lugia": {
+        "id": 249,
+        "name": "lugia",
+        "types": [
+            "psychic",
+            "flying"
+        ],
+        "is_legendary": true,
+        "is_mythical": false
+    },
+    "noivern": {
+        "id": 715,
+        "name": "noivern",
+        "types": [
+            "flying",
+            "dragon"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "ceruledge": {
+        "id": 937,
+        "name": "ceruledge",
+        "types": [
+            "fire",
+            "ghost"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "haxorus": {
+        "id": 612,
+        "name": "haxorus",
+        "types": [
+            "dragon"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "psyduck": {
+        "id": 54,
+        "name": "psyduck",
+        "types": [
+            "water"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "annihilape": {
+        "id": 979,
+        "name": "annihilape",
+        "types": [
+            "fighting",
+            "ghost"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    },
+    "magikarp": {
+        "id": 129,
+        "name": "magikarp",
+        "types": [
+            "water"
+        ],
+        "is_legendary": false,
+        "is_mythical": false
+    }
+}
