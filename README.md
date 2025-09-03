@@ -6,7 +6,7 @@ This project uses [PokéAPI](https://pokeapi.co/) to:
 
 ---
 
-## 📂 Files
+##  Files
 - **pokemon.txt** → List of Pokémon names/IDs  
 - **pokemon1.py** → Fetches data (ID, name, types, legendary/mythical) from `pokemon.txt` and saves it into `pokemon_data.json`  
 - **pokemon2.py** → Starts a local API server for type matchups  
@@ -14,7 +14,7 @@ This project uses [PokéAPI](https://pokeapi.co/) to:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Install dependencies:
    ```bash
    pip install requests pandas
@@ -25,17 +25,19 @@ This project uses [PokéAPI](https://pokeapi.co/) to:
    python pokemon2.py
 → Server runs on http://localhost:8000
 
+---
+
 ## Server Endpoints
-?attacker=TYPE&defender=TYPE → Multiplier (e.g., Fire vs Grass)
-?attacker=TYPE → Show attacker effectiveness
-?defender=TYPE → Show defender resistances/weaknesses
-?pokemon=NAME → Pokémon types + weaknesses/resistances
+?attacker=TYPE&defender=TYPE → Multiplier (e.g., Fire vs Grass)  
+?attacker=TYPE → Show attacker effectiveness  
+?defender=TYPE → Show defender resistances/weaknesses  
+?pokemon=NAME → Pokémon types + weaknesses/resistances  
 
 Example:
-http://localhost:8000/?attacker=fire&defender=grass
-Response:
-{ 
-  "attacker": "fire", 
-  "defender": "grass", 
-  "multiplier": 2.0 
+http://localhost:8000/?attacker=fire&defender=grass  
+Response:  
+{  
+  "attacker": "fire",   
+  "defender": "grass",  
+  "multiplier": 2.0  
 }
